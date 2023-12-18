@@ -1,0 +1,20 @@
+header{
+    background-color: pink;
+    padding: 100px;
+    text-align: center;
+}
+.bar{
+    background-color: purple;
+    padding: 50px;
+    text-align: center;
+}
+.infor{
+    background-color: grey;
+    padding: 550px;
+}
+footer{
+    background-color: plum;
+    padding: 50px;
+    text-align: center;
+}
+
